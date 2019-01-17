@@ -2,7 +2,7 @@
 
 
 PORTNAME=	i3
-DISTVERSION=	2019011200
+DISTVERSION=	2019011700
 CATEGORIES=	x11
 PKGNAMESUFFIX=	-sterm
 
@@ -22,7 +22,7 @@ USE_XORG=	x11 xext xft xrender
 USE_GITHUB=	yes
 GH_ACCOUNT=	trueos-i3wm
 GH_PROJECT=	st
-GH_TAGNAME=	afdaec8
+GH_TAGNAME=	2e9e1a6
 
 PLIST_FILES=	bin/st man/man1/st.1.gz
 
